@@ -21,7 +21,7 @@
 title: 七七会员管理系统
 email: admin@member77.top
 description: >- # this means to ignore newlines until "baseurl:"
-  免费的会员管理系统，支持金额卡，次卡，年卡，月卡，周卡等，适用于美容美发，汽车服务，教育培训等各种充值消费的场景
+  免费的会员管理系统，支持金额卡，次卡，年卡，月卡，周卡等，适用于美容美发，汽车服务，教育培训等各种充值消费的场景。七七会员管理系统 · 77会员管理系统
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: member77
