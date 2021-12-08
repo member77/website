@@ -12023,18 +12023,18 @@ footer a:focus {
   display: inline-block;
   padding: 10px;
   border: 1px solid gray;
-  text-decoration: none;
   color: black;
 
   &.border-white {
     border: 1px solid white;
   }
 
+  a {
+    text-decoration: none;
+  }
+
   img {
     height: 30px;
     margin-right: 5px;
-  }
-  .span {
-    font-weight: bold;
   }
 }
